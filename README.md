@@ -1,5 +1,5 @@
 -   ## Diamond Price
-
+![alt text](https://github.com/Huzaifa-Nusairat/Diamonds-Price/blob/master/Images/diamond-background.jpg?raw=true)
 **prepared by:** Huzaifa Nusairat
 
 -   ## problem overview
