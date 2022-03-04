@@ -15,7 +15,7 @@ preventive measures !
 
 - ## Solution process
 
-   ### Discuss about The Data:
+    ### Discuss about The Data:
 
  1- where you get your data set
 
@@ -27,7 +27,7 @@ preventive measures !
 
 5- what kind of columns it says like:( Demographic, History, etc…)
 
-   ### Analyze The Data :
+    ### Analyze The Data :
 
 what do you analyze like: (Heterogeneous population, Anomaly detection,
 Missing value treatment, create new variables upon mutual
