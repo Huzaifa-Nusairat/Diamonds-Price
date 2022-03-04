@@ -1,6 +1,6 @@
--   ## Title of the project
+-   ## Diamond Price
 
-prepared by:
+**prepared by:** Huzaifa Nusairat
 
 -   ## problem overview
 
