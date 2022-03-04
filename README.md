@@ -1,8 +1,8 @@
--   **Title of the project**
+-   ## Title of the project
 
 prepared by:
 
--   **problem overview**
+-   ## problem overview
 
 What is the problem !
 
@@ -13,9 +13,9 @@ We will examine who is effected by this problem !
 How we can decrease the chances of getting this problem by some
 preventive measures !
 
--   **Solution process**
+-   ## Solution process
 
-**Discuss about The Data:**
+### Discuss about The Data:
 
  1- where you get your data set
 
@@ -27,13 +27,13 @@ preventive measures !
 
 5- what kind of columns it says like:( Demographic, History, etc…)
 
-**Analyze The Data :**
+### Analyze The Data :
 
 what do you analyze like: (Heterogeneous population, Anomaly detection,
 Missing value treatment, create new variables upon mutual
 relation(feature engineering))
 
-**Analytical approach:**
+### Analytical approach:
 
 What kind of analytical approach did you use like:(supervised ML or
 unsupervised ML, etc...)
@@ -43,7 +43,7 @@ Model preparation:
 how you prepare the model like: (we teach the model on the training data
 set)
 
-**Model validation:**
+### Model validation:
 
 1- how you validate the model!
 
@@ -51,27 +51,27 @@ set)
 
 3- how it is predicting !
 
--   **Models comparison**
+-   ## Models comparison
 
 How each model is performing on training data** **and testing data.
 
--   **key finding**
+-   ## key finding
 
 It is the most important factor that influence through the problem and
 number them in order .
 
--   **preventive measures**
+-   ## preventive measures
 
 You can discuss the preventive measure and what kind of preventive areas
 you can take to avoid the problem or reduce the disease or fraud
 detection.
 
--   **Recommendation**
+-   ## Recommendation
 
 Give recommendation upon your model prediction and explain your
 recommendations.
 
--   **Potential benefits**
+-   ## Potential benefits
 
 What kind of potential benefits are given (The sense of the business) it
 should be at least three.
